@@ -1,0 +1,15 @@
+List of all functions and methods used in my script are pulled directly from microsofts VBA documentation page:
+`Workbook` - docs.microsoft.com/en-us/office/vba/api/excel.workbook
+`Worksheets` - docs.microsoft.com/en-us/office/vba/api/excel.worksheets
+`Cells` - docs.microsoft.com/en-us/office/vba/api/excel.cells
+`End` - docs.microsoft.com/en-us/office/vba/api/excel.range.end
+`Row` - docs.microsoft.com/en-us/office/vba/api/excel.row(object)
+`FormatConditions` - docs.microsoft.com/en-us/office/vba/api/excel.formatconditions
+`Add` - docs.microsoft.com/en-us/office/vba/api/excel.formatconditions.add
+`Delete` - docs.microsoft.com/en-us/office/vba/api/excel.formatconditions.delete
+`Interior` - docs.microsoft.com/en-us/office/vba/api/excel.interior
+`Color` - docs.microsoft.com/en-us/office/vba/api/excel.interior.color
+`NumberFormat` - docs.microsoft.com/en-us/office/vba/api/excel.range.numberformat
+`RGB` - docs.microsoft.com/en-us/office/vba/api/excel.application.rgb
+
+Location of VBA file is: .../Module_2_Challenge/CalculateStockMetrics.vb
