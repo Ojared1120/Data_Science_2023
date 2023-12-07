@@ -4,12 +4,6 @@
 
 This project explores the fundamental question: "What is the weather like as we approach the equator?" Using Python requests, APIs, and JSON traversals, this analysis aims to provide a definitive answer, backed by data.
 
-## Before You Begin
-
-- **Repository Creation**: A new repository named `python-api-challenge` has been created for this project.
-- **Cloning and Directory Setup**: The repository is cloned, and directories for `WeatherPy` and `VacationPy` are set up.
-- **File Inclusion**: The `api_keys.py`, `WeatherPy.ipynb`, and `VacationPy.ipynb` files are included in their respective directories.
-
 ## Adding a .gitignore File
 
 To protect API keys and sensitive information, a `.gitignore` file is used. It includes the following:
@@ -46,15 +40,3 @@ This section uses the weather data to plan future vacations. It involves map vis
 2. **Ideal Weather Conditions**: The DataFrame is narrowed down to find cities with ideal weather conditions.
 3. **Hotel Search**: For each city, the Geoapify API is used to find the first hotel within 10,000 meters of the coordinates.
 4. **Map with Hotels**: A map displaying hotels in the ideal cities, including hotel names and countries in the hover text.
-
-## Hints and Considerations
-
-- The city data is based on random coordinates and different query times, leading to unique outputs.
-- Critical thinking is applied to understand the use of `citipy` and the OpenWeatherMap API.
-- Linear regression analysis is conducted thoughtfully, considering geographical diversity.
-
-## Submission
-
-The completed assignment is submitted through the provided GitHub repository URL.
-
-
