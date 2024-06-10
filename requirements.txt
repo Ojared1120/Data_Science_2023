@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+plotly
+d3
+pymongo
+flask
+sqlalchemy
+pyyaml
+pyodbc
+beautifulsoup4
+requests
+hvplot
